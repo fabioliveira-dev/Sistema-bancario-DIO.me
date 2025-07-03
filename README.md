@@ -1,11 +1,8 @@
 -----
+# Sistema Bancário Simplificado v1.0 💸 (DIO.me e Santander Open Academy)
 
-\<p align="center"\>
-\<h1 align="center" style="color: \#4CAF50;"\>Sistema Bancário Simplificado v1.0 💸\</h1\>
-\</p\>
-\<p align="center"\>
 Um sistema bancário em console desenvolvido em Python para operações básicas.
-\</p\>
+
 
 -----
 
